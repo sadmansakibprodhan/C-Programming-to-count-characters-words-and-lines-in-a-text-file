@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615213158 source:f:\my documents\git projects\c projects\count characters, words and lines in a text file\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
